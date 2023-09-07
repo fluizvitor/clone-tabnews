@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Oi, Crédito. Tudo bem? Me traz um copo de água por favor. ABUUUUUUUUUUUUUUUUUUUU!!!</h1>
+    return <h1>fodase</h1>
 }
 
 export default Home;
