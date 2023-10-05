@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Me traz um copo stanley com água, crédito.
-      ABUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU!
-    </h1>
-  );
+  return <h1>EI RODRIGO VAI TOMA NO CU</h1>;
 }
 
 export default Home;
