@@ -13,7 +13,9 @@ const Index = () => {
   };
 
   const handleYesButtonClick = () => {
-    alert("Você fez a melhor escolha da sua vida!!!");
+    alert(
+      "Parabéns por fazer a melhor escolha da sua vida. Você não vai se arrepender!",
+    );
     window.location.href = "https://youtu.be/vSsUDOpzYOs?si=ADcttkxOsTf17JAs";
   };
 
